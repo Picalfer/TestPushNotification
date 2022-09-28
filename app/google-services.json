@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252462444962",
+    "project_id": "test-firebase-bcc66",
+    "storage_bucket": "test-firebase-bcc66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252462444962:android:ae08a711d1d96f58f642fb",
+        "android_client_info": {
+          "package_name": "com.example.testpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252462444962-3efmkudiim3l5arcuvidr90sj74e95p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaWtXHQbWGo6gR_YrvHjURo9_gDwVnG-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252462444962-3efmkudiim3l5arcuvidr90sj74e95p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
