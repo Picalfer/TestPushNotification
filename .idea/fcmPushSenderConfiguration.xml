@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FCMPushSenderConfiguration">
+    <option name="settings">
+      <PushSettings>
+        <option name="preferenceKey" value="" />
+        <option name="templates">
+          <list>
+            <PushTemplate>
+              <option name="data" value="{&#10;  &quot;key&quot;: &quot;value&quot;&#10;}" />
+              <option name="name" value="MyTemplate" />
+            </PushTemplate>
+          </list>
+        </option>
+        <option name="useStetho" value="false" />
+      </PushSettings>
+    </option>
+  </component>
+</project>

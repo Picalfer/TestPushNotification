@@ -5,7 +5,7 @@ import android.util.Log
 import com.google.firebase.FirebaseApp
 import com.google.firebase.messaging.FirebaseMessaging
 
-class MyApp: Application() {
+class MyApp : Application() {
 
     override fun onCreate() {
         super.onCreate()
@@ -17,7 +17,7 @@ class MyApp: Application() {
             }
 
             val token = task.result
-            Log.e("TAG", "Token -> $token")
+            Log.d("TEST", "Token -> $token")
         }
     }
 }
